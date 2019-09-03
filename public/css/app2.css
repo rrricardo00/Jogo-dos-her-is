@@ -1,0 +1,17 @@
+.image {
+    height: 253.5px;
+}
+
+.image2 {
+    height: 500px;
+}
+
+.icone-voltar {
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+}
+
+.carousel {
+    margin-top: 145px;
+}
